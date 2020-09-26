@@ -14,5 +14,6 @@ Skills demonstrated:
 - Created a navigation bar using unordered list formatting
 - Created a page footer using unordered list formatting
 - Styled links (visited, hover, active)
+- Used developer tools to find what font/colors are used for text
 
 *will continue to update throughout project*
