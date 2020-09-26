@@ -1,4 +1,4 @@
-**In this project, I will look through the HTML of an existing web page, deconstruct it, and then rebuild it.**
+**In this project, I will try to build a copy of an existing webpage (google.com) using HTML, CSS, and developer tools**
 
 The goals for this project are:
 
@@ -9,4 +9,10 @@ The goals for this project are:
 
 Skills demonstrated:
 
-*will update at end of project*
+- Displayed elements (text, images, etc) on the page using HTML
+- Aligned elements to different parts of the page
+- Created a navigation bar using unordered list formatting
+- Created a page footer using unordered list formatting
+- Styled links (visited, hover, active)
+
+*will continue to update throughout project*
