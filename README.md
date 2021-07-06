@@ -16,4 +16,6 @@ Skills demonstrated:
 - Styled links (visited, hover, active)
 - Used developer tools to find what font/colors are used for text
 
-[Demo](https://josephtrandev.github.io/google-homepage/)
+# [Live Demo](https://josephtrandev.github.io/google-homepage/)
+
+[![Demo Preview](preview.png)](https://josephtrandev.github.io/google-homepage/)
