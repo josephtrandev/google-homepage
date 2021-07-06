@@ -1,20 +1,12 @@
-**In this project, I will try to build a copy of an existing webpage (google.com) using HTML, CSS, and developer tools**
+# Google Search Clone
 
-The goals for this project are:
+> A recreation of the Google Search home page
 
-- See how elements get placed on the page
-- See how elements are styled and aligned
-- Build something in HTML
-- Get more comfortable with git and version control
+# About Project:
 
-Skills demonstrated:
+Using HTML, CSS, and developer tools, this website is built with one constraint in mind: to look like the Google Search home page.
 
-- Displayed elements (text, images, etc) on the page using HTML
-- Aligned elements to different parts of the page
-- Created a navigation bar using unordered list formatting
-- Created a page footer using unordered list formatting
-- Styled links (visited, hover, active)
-- Used developer tools to find what font/colors are used for text
+Elements are displayed using the same layout and design (fonts, images, etc.)
 
 # [Live Demo](https://josephtrandev.github.io/google-homepage/)
 
